@@ -17,6 +17,7 @@
     <scale factor="0.6" />
 
     <!-- NOVA LAUNCHER STUFF -->
+		<item component="ComponentInfo{air.com.yudu.ReaderAIR3104835/air.com.yudu.ReaderAIR3104835.AppEntry}" drawable="com_americangirl_catalogue"/>
 		<item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="com_adobe_reader"/>
 		<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="rename_me_google_people"/>
 		<item component="ComponentInfo{com.ne.hdv/com.ne.hdv.IntroActivity}" drawable="rename_me_hd_video_downloader"/>
@@ -102,6 +103,7 @@
 		<item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="com_android_gallery3d"/>
 		<item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="com_android_gallery3d"/>
 		<item component="ComponentInfo{com.google.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="com_android_gallery3d"/>
+		<item component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
 		<item component="ComponentInfo{com.android.gallery3d/com.android.hwcamera}" drawable="com_android_gallery3d"/>
         <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.Gallery}" drawable="com_android_gallery3d"/>
 		<item component="ComponentInfo{mobi.pixi.music.player.black/mobi.pixi.music.player.MediaBrowserActivity}" drawable="rename_me_best_music_player"/>
@@ -123,6 +125,7 @@
         <item component="ComponentInfo{installer.com.touchtype.swiftkey/installer.com.touchtype.swiftkey.MainActivity}" drawable="com_touchtype_swiftkey"/>
 		<item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.eBay}" drawable="com_ebay_mobile"/>
 		<item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="com_android_deskclock"/>
+		<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="com_android_deskclock"/>
         <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="com_android_deskclock"/>
 		<item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="com_opera_browser"/>
         <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="rename_me_xposed_installer"/>
@@ -209,6 +212,7 @@
         <item component="ComponentInfo{com.devexpert.weatheradfree/com.devexpert.weatheradfree.view.HomeActivity}" drawable="com_devexpert_weather"/>
 		<item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.InviteGateActivity}" drawable="com_tul_aviate"/>
         <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.TourActivity}" drawable="com_tul_aviate"/>
+		<item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="com_android_music"/>
 		<item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="com_android_music"/>
 		<item component="ComponentInfo{com.rdio.oi.android.ui/rdio.activities.MainActivity}" drawable="com_rdio_oi_android_ui"/>
 		<item component="ComponentInfo{}" drawable="com_android_gallery3d_alt"/>
@@ -314,10 +318,14 @@
 		<item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}" drawable="rename_me_gplus_photos"/>
 		<item component="ComponentInfo{com.citc.weather/com.citc.weather.activities.Main}" drawable="com_citc_weather"/>
         <item component="ComponentInfo{fm.clean/fm.clean.MainActivity}" drawable="file_manager"/>
+		<item component="ComponentInfo{com.softwinner.explore/com.softwinner.explore.Main}" drawable="file_manager"/>
+		<item component="ComponentInfo{com.softwinner.fireplayer/com.softwinner.fireplayer.ui.FourKMainActivity}" drawable="com_softwinner_player"/>
+		<item component="ComponentInfo{com.softwinner.update/com.softwinner.update.UpdateActivity}" drawable="com_softwinner_fwupdate"/>
         <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive"/>
         <item component="ComponentInfo{com.cootek.smartinputv5/com.cootek.smartinput5.Guide}" drawable="rename_me_touchpalx"/>
         <item component="ComponentInfo{bg.mediastorm.zrock/bg.mediastorm.zrock.ZRockActivity}" drawable="bg_mediastorm_zrock"/>
         <item component="ComponentInfo{com.andrwq.recorder/com.andrwq.recorder.RecorderActivity}" drawable="com_andrwq_recorder"/>
+		<item component="ComponentInfo{yuku.mp3recorder.full/yuku.perekammp3.RekamActivity}" drawable="yuku_recorder_full"/>
         <item component="ComponentInfo{com.axelby.podax/com.axelby.podax.ui.MainActivity}" drawable="com_axelby_podax"/>
         <item component="ComponentInfo{com.dianxinos.optimizer.duplay/com.dianxinos.optimizer.EnteringSplashActivity}" drawable="com_dianxinos_optimizer_duplay"/>
         <item component="ComponentInfo{com.estrongs.android.pop.cupcake/com.estrongs.android.pop.cupcake.view.FileExplorerActivity}" drawable="com_estrongs_android_pop"/>
@@ -354,6 +362,8 @@
 		<item component="ComponentInfo{com.airlocksoftware.hackernews/com.airlocksoftware.hackernews.NewsActivity}" drawable="com_airlocksoftware_hackernews"/>
 		<item component="ComponentInfo{com.amazon.windowshop/com.amazon.windowshop.home.HomeLauncherActivity}" drawable="com_amazon_windowshop"/>
 		<item component="ComponentInfo{com.bittorrent.sync/com.bittorrent.sync.ui.activity.StartActivity}" drawable="com_bittorrent_sync"/>
+    	<item component="ComponentInfo{com.brother.mfc.brprint/com.brother.mfc.brprint.SplashActivity}" drawable="com_brother_mfc_brprint"/>
+		<item component="ComponentInfo{com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity}" drawable="com_cpuid_cpu_z"/>
 		<item component="ComponentInfo{com.cubeactive.qnotelistfree/com.cubeactive.qnotelistfree.Splash_Activity}" drawable="com_cubeactive_qnotelistfree"/>
 		<item component="ComponentInfo{com.demiroot.amazonfresh/com.demiroot.amazonfresh.activities.GatewayMenuActivity}" drawable="com_demiroot_amazonfresh"/>
 		<item component="ComponentInfo{com.flyingottersoftware.mega/com.flyingottersoftware.mega.ManagerActivity}" drawable="com_flyingottersoftware_mega"/>
